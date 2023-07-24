@@ -1,0 +1,17 @@
+C:\Users\pande\source\repos\TvShowsManager\TvShowsManager.DataContext\bin\Debug\net6.0\TvShowsManager.DataContext.deps.json
+C:\Users\pande\source\repos\TvShowsManager\TvShowsManager.DataContext\bin\Debug\net6.0\TvShowsManager.DataContext.runtimeconfig.json
+C:\Users\pande\source\repos\TvShowsManager\TvShowsManager.DataContext\bin\Debug\net6.0\TvShowsManager.DataContext.dll
+C:\Users\pande\source\repos\TvShowsManager\TvShowsManager.DataContext\bin\Debug\net6.0\TvShowsManager.DataContext.pdb
+C:\Users\pande\source\repos\TvShowsManager\TvShowsManager.DataContext\bin\Debug\net6.0\TvShowsManager.Models.dll
+C:\Users\pande\source\repos\TvShowsManager\TvShowsManager.DataContext\bin\Debug\net6.0\TvShowsManager.Models.pdb
+C:\Users\pande\source\repos\TvShowsManager\TvShowsManager.DataContext\obj\Debug\net6.0\TvShowsManager.DataContext.csproj.AssemblyReference.cache
+C:\Users\pande\source\repos\TvShowsManager\TvShowsManager.DataContext\obj\Debug\net6.0\TvShowsManager.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pande\source\repos\TvShowsManager\TvShowsManager.DataContext\obj\Debug\net6.0\TvShowsManager.DataContext.AssemblyInfoInputs.cache
+C:\Users\pande\source\repos\TvShowsManager\TvShowsManager.DataContext\obj\Debug\net6.0\TvShowsManager.DataContext.AssemblyInfo.cs
+C:\Users\pande\source\repos\TvShowsManager\TvShowsManager.DataContext\obj\Debug\net6.0\TvShowsManager.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\pande\source\repos\TvShowsManager\TvShowsManager.DataContext\obj\Debug\net6.0\TvShowsManager.DataContext.csproj.CopyComplete
+C:\Users\pande\source\repos\TvShowsManager\TvShowsManager.DataContext\obj\Debug\net6.0\TvShowsManager.DataContext.dll
+C:\Users\pande\source\repos\TvShowsManager\TvShowsManager.DataContext\obj\Debug\net6.0\refint\TvShowsManager.DataContext.dll
+C:\Users\pande\source\repos\TvShowsManager\TvShowsManager.DataContext\obj\Debug\net6.0\TvShowsManager.DataContext.pdb
+C:\Users\pande\source\repos\TvShowsManager\TvShowsManager.DataContext\obj\Debug\net6.0\TvShowsManager.DataContext.genruntimeconfig.cache
+C:\Users\pande\source\repos\TvShowsManager\TvShowsManager.DataContext\obj\Debug\net6.0\ref\TvShowsManager.DataContext.dll

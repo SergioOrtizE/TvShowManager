@@ -1,0 +1,12 @@
+C:\Users\pande\source\repos\TvShowsManager\TvShowsManager.Models\bin\Debug\net6.0\TvShowsManager.Models.deps.json
+C:\Users\pande\source\repos\TvShowsManager\TvShowsManager.Models\bin\Debug\net6.0\TvShowsManager.Models.dll
+C:\Users\pande\source\repos\TvShowsManager\TvShowsManager.Models\bin\Debug\net6.0\TvShowsManager.Models.pdb
+C:\Users\pande\source\repos\TvShowsManager\TvShowsManager.Models\obj\Debug\net6.0\TvShowsManager.Models.csproj.AssemblyReference.cache
+C:\Users\pande\source\repos\TvShowsManager\TvShowsManager.Models\obj\Debug\net6.0\TvShowsManager.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pande\source\repos\TvShowsManager\TvShowsManager.Models\obj\Debug\net6.0\TvShowsManager.Models.AssemblyInfoInputs.cache
+C:\Users\pande\source\repos\TvShowsManager\TvShowsManager.Models\obj\Debug\net6.0\TvShowsManager.Models.AssemblyInfo.cs
+C:\Users\pande\source\repos\TvShowsManager\TvShowsManager.Models\obj\Debug\net6.0\TvShowsManager.Models.csproj.CoreCompileInputs.cache
+C:\Users\pande\source\repos\TvShowsManager\TvShowsManager.Models\obj\Debug\net6.0\TvShowsManager.Models.dll
+C:\Users\pande\source\repos\TvShowsManager\TvShowsManager.Models\obj\Debug\net6.0\refint\TvShowsManager.Models.dll
+C:\Users\pande\source\repos\TvShowsManager\TvShowsManager.Models\obj\Debug\net6.0\TvShowsManager.Models.pdb
+C:\Users\pande\source\repos\TvShowsManager\TvShowsManager.Models\obj\Debug\net6.0\ref\TvShowsManager.Models.dll
